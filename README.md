@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b>Cisco</b>
+  - [Building Home Network Lab](https://github.com/davidwest1/BuildingNetworkLab)
 - <b>Powershell</b>
   - [Active Directory Bulk User Creation](https://github.com/davidwest1/ActiveDirectoryLab/tree/main)
 - <b>Certifications</b>
