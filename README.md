@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b>Python</b>
+  - [City Weather Website](https://github.com/davidwest1/BuildingNetworkLab)
 - <b>Cisco</b>
   - [Building Home Network Lab](https://github.com/davidwest1/BuildingNetworkLab)
 - <b>Powershell</b>
