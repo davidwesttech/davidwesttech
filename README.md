@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Azure</b>
-  - [Azure SIEM Lab](https://github.com/davidwest/AzureSIEMLab)
+  - [Azure SIEM Lab](https://github.com/davidwest1/AzureSIEMLab)
 - <b>Python</b>
   - [City Weather Website](https://github.com/davidwest1/CityWeatherWebsite)
 - <b>Cisco</b>
