@@ -10,9 +10,6 @@
   - [Building Home Network Lab](https://github.com/davidwest1/BuildingNetworkLab)
 - <b>Powershell</b>
   - [Active Directory Bulk User Creation](https://github.com/davidwest1/ActiveDirectoryLab/tree/main)
-- <b>Certifications</b>
-  - [uCertify Cyberrange](https://imgur.com/sHzuFdg)
-  - [uCertify Database Fundamentals](https://imgur.com/a/aF196FR) 
 
 
 <h2> 🤳 Connect with me:</h2>
