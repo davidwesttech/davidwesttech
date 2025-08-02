@@ -4,19 +4,19 @@ I'm passionate about cybersecurity and love tackling challenges through hands-on
 
 ## 👨🏻‍💻 Cybersecurity Projects
 
-- [Azure SIEM Lab](https://github.com/davidwest1/AzureSIEMLab)
-- [City Weather Website Python](https://github.com/davidwest1/CityWeatherWebsite)
-- [Building Cisco Home Network Lab](https://github.com/davidwest1/BuildingNetworkLab)
-- [Active Directory Bulk User Creation](https://github.com/davidwest1/ActiveDirectoryLab/tree/main)
-    
+- **[Azure SIEM Lab](https://github.com/davidwest1/AzureSIEMLab)**
+- **[City Weather Website Python](https://github.com/davidwest1/CityWeatherWebsite)**
+- **[Building Cisco Home Network Lab](https://github.com/davidwest1/BuildingNetworkLab)**
+- **[Active Directory Bulk User Creation](https://github.com/davidwest1/ActiveDirectoryLab/tree/main)**
+  
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/davidwest1/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/______)**
 
 ## 🚨 Threat Hunting and Security Operations
 
-- 
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/_________)**
 
 <hr/>
 
