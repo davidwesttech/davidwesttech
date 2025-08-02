@@ -1,6 +1,6 @@
-<h1>Hi, I'm David! </h1>
-
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h1>David West's IT and Cybersecurity Project Portfolio 🔐 </h1>
+I'm passionate about cybersecurity and love tackling challenges through hands-on projects. These projects allow me to dive deep into the ever-evolving landscape of cybersecurity and technology as a whole. Please feel free to check them out and see my work.
+<h2>👨🏻‍💻 Cybersecurity Projects:</h2>
 
 - <b>Azure</b>
   - [Azure SIEM Lab](https://github.com/davidwest1/AzureSIEMLab)
