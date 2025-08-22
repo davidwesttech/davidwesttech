@@ -4,7 +4,7 @@ I'm passionate about cybersecurity and love tackling challenges through hands-on
 
 ## 👨🏻‍💻 Cybersecurity Projects
 
-- **[Azure SIEM Lab](https://github.com/davidwest1/AzureSIEMLab)**
+- **[Creating Azure SIEM with Custom Alerting](https://github.com/davidwest1/AzureSIEMLab)**
   
 ## 🖥️ IT Projects
 
