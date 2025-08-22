@@ -6,14 +6,6 @@ I'm passionate about cybersecurity and love tackling challenges through hands-on
 
 - **[Azure SIEM Lab](https://github.com/davidwest1/AzureSIEMLab)**
   
-## ⚠️ Vulnerability Management Projects
-
-- **[Vulnerability Management Program Implementation](https://github.com/davidwest1/vulnerability-management-program)**
-
-## 🚨 Threat Hunting and Security Operations Projects
-
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/_________)**
-
 ## 🖥️ IT Projects
 
 - **[City Weather Website Python](https://github.com/davidwest1/CityWeatherWebsite)**
