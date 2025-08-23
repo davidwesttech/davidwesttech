@@ -5,6 +5,7 @@ I'm passionate about cybersecurity and love tackling challenges through hands-on
 ## 👨🏻‍💻 Cybersecurity Projects
 
 - **[Deploying Azure Sentinel SIEM with Alerting](https://github.com/davidwest1/AzureSIEMLab)**
+- **[Securing CI/CD Pipeline for Secure Secrets Management](https://github.com/davidwest1/SecureCI-CDPipeline)**
   
 ## 🖥️ IT Projects
 
