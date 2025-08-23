@@ -10,9 +10,9 @@ I'm passionate about cybersecurity and love tackling challenges through hands-on
   
 ## 🖥️ IT Projects
 
-- **[City Weather Website Python](https://github.com/davidwest1/CityWeatherWebsite)**
+- **[Developing City Weather Website using Python](https://github.com/davidwest1/CityWeatherWebsite)**
 - **[Building Cisco Home Network Lab](https://github.com/davidwest1/BuildingNetworkLab)**
-- **[Active Directory Bulk User Creation](https://github.com/davidwest1/ActiveDirectoryLab/tree/main)**
+- **[Creating Active Directory Users with Powershell](https://github.com/davidwest1/ActiveDirectoryLab/tree/main)**
 
 <hr/>
 
