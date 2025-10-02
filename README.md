@@ -1,8 +1,8 @@
-# David West</a>'s IT and Cybersecurity Project Portfolio 🔐
+# David West</a>'s Project Portfolio 🔐
 
 I'm passionate about cybersecurity and love tackling challenges through hands-on projects. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
-## 👨🏻‍💻 Cybersecurity Projects
+## 👨🏻‍💻 Cloud and Cybersecurity Projects
 
 - **[Deploying Azure Sentinel SIEM with Alerting](https://github.com/davidwest1/AzureSIEMLab)**
 - **[Securing CI/CD Pipeline for Secure Secrets Management](https://github.com/davidwest1/SecureCI-CDPipeline)**
