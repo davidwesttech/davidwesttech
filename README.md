@@ -1,6 +1,6 @@
 # David West</a>'s Project Portfolio 🔐
 
-I'm passionate about Cybersecurity, DevOps, and cloud and love tackling challenges through hands-on projects. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+I'm passionate about Cybersecurity, DevOps, and Cloud. I love tackling challenges through hands-on projects. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
 ## 👨🏻‍💻 Cloud and Cybersecurity Projects
 
