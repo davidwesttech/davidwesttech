@@ -2,14 +2,11 @@
 
 I'm passionate about Cybersecurity, DevOps, and Cloud. I love tackling challenges through hands-on projects. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
-## 👨🏻‍💻 Cloud and Cybersecurity Projects
+## 👨🏻‍💻 Projects
 
 - **[Deploying Azure Sentinel SIEM with Alerting](https://github.com/davidwest1/AzureSIEMLab)**
 - **[Securing CI/CD Pipeline for Secure Secrets Management](https://github.com/davidwest1/SecureCI-CDPipeline)**
-- **[Building Python Web App and Remediating Vulnerabilites](https://github.com/davidwest1/SecuringWebApp)**
-  
-## 🖥️ IT Projects
-
+- **[Building Python Web App and Remediating Vulnerabilites](https://github.com/davidwest1/SecuringWebApp)**  
 - **[Developing City Weather Website using Python](https://github.com/davidwest1/CityWeatherWebsite)**
 - **[Building Cisco Home Network Lab](https://github.com/davidwest1/BuildingNetworkLab)**
 - **[Creating Active Directory Users with Powershell](https://github.com/davidwest1/ActiveDirectoryLab/tree/main)**
