@@ -4,6 +4,7 @@ I'm passionate about Cybersecurity, DevOps, and Cloud. I love tackling challenge
 
 ## 👨🏻‍💻 My Projects
 
+- **[Architecting an Azure Enterprise Landing Zone with Terraform](https://github.com/davidwesttech/azure-enterprise-landing-zone-terraform)**
 - **[Deploying Azure Sentinel SIEM with Alerting](https://github.com/davidwest1/AzureSIEMLab)**
 - **[Securing CI/CD Pipeline for Secure Secrets Management](https://github.com/davidwest1/SecureCI-CDPipeline)**
 - **[Building Python Web App and Remediating Vulnerabilites](https://github.com/davidwest1/SecuringWebApp)**  
